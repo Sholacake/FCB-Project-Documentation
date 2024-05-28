@@ -16,4 +16,4 @@ SELECT* FROM TABLE 1
 WHERE CONDITION = MET
 ¬¬¬
 
-![](DATA CLEANING)
+![](data-cleansing.jpg)
