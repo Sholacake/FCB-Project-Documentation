@@ -7,6 +7,5 @@ i started bootcamp on the 26th of May 2024 to learn Data Analysis i want to buil
 - Access Microsoft
 - SQL
 - Mail shipping
-  
 ## Link needed
 Tools Used- Ms Excel for Data cleaning Download here[Download here](www.kaggle.com)
