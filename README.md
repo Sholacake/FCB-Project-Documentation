@@ -8,4 +8,4 @@ I started bootcamp on the 26th of May 2024 to learn Data Analysis. I want to bui
 - SQL
 - Mail shipping
 ## Link needed
-Tools Used- Ms Excel for Data cleaning Download here[Download here](https://www.kaggle.com)
+Tools Used- Ms Excel for **Data cleaning** Download here[Download here](https://www.kaggle.com)
