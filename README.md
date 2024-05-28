@@ -18,6 +18,6 @@ WHERE CONDITION = MET
 
 ~~~
 
-![](download.png)
+
 
 
