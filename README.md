@@ -10,4 +10,12 @@ I started bootcamp on the 26th of May 2024 to learn Data Analysis. I want to bui
 ## Link needed
 Tools Used- Ms Excel for **Data cleaning** Download here[Download here](https://www.kaggle.com)
 
-![](download.png)
+¬¬¬
+
+Google Query Sheet
+SELECT* FROM TABLE 1
+WHERE CONDITION = MET
+
+¬¬¬
+
+
